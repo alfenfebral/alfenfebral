@@ -7,7 +7,7 @@ I'm a Go/JavaScript developer, currently working as backend.
 </p>
 
 <p align="center">
-  I'm a backend developer at <a href="https://codex.works">Codex by Telkom Indonesia.</a>
+ Backend developer
 </p>
 
 <p align="center">
