@@ -26,5 +26,5 @@ I'm a Go/JavaScript developer, currently working as backend.
 </p>
 
 <p align="center">
-  📬How you can reach me: LinkedIn (preferred)
+  How you can reach me: LinkedIn (preferred)
 </p>
