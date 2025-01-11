@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello👋 I'm Alfen Febral👨‍💻
+Alfen Febral
 </h1>
 
 <p align="center">
