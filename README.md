@@ -16,7 +16,7 @@ I'm a Go/JavaScript developer, currently working as backend.
 </p>
   
 <p align="center">
-  I work with💻
+  I work with
 </p>
 
 <p align="center">
