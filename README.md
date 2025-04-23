@@ -11,7 +11,7 @@ I'm a Go/JavaScript developer, currently working as backend.
 </p>
 
 <p align="center">
-  <a href="https://levantein.com/"><img src="https://img.shields.io/badge/Blog-Levantein.com-blue?style=for-the-badge" /></a><br>
+  <a href="https://alfenfebral.my.id/"><img src="https://img.shields.io/badge/Blog-Alfen.com-blue?style=for-the-badge" /></a><br>
   <a href="https://www.linkedin.com/in/alfen-febral/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
 </p>
   
